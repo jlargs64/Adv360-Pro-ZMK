@@ -51,7 +51,7 @@
             bindings = <
 &kp F1  &kp F2                &kp F3          &kp F4            &kp F5         &kp F6       &tog 1                                      &mo 3   &kp F7     &kp F8        &kp F9             &kp F10            &kp F11                &kp F12
 &trans  &kp EXCL              &kp AT          &kp HASH          &kp DOLLAR     &kp PERCENT  &none                                       &none   &kp PLUS   &kp MINUS     &kp EQUAL          &kp STAR           &kp AMPERSAND          &trans
-&trans  &kp LEFT_PARENTHESIS  &kp LEFT_BRACE  &kp LEFT_BRACKET  &kp LESS_THAN  &kp COLON    &trans  &trans  &trans      &trans  &trans  &none   &kp COLON  &kp GT        &kp RIGHT_BRACKET  &kp RIGHT_BRACE    &kp RIGHT_PARENTHESIS  &trans
+&trans  &kp LEFT_PARENTHESIS  &kp LEFT_BRACE  &kp LEFT_BRACKET  &kp LESS_THAN  &kp COLON    &none   &trans  &trans      &trans  &trans  &none   &kp COLON  &kp GT        &kp RIGHT_BRACKET  &kp RIGHT_BRACE    &kp RIGHT_PARENTHESIS  &trans
 &trans  &kp CARET             &kp TILDE       &kp BACKSLASH     &kp PIPE       &kp GRAVE                    &trans      &trans                  &kp UNDER  &kp QUESTION  &kp SLASH          &kp DOUBLE_QUOTES  &kp SINGLE_QUOTE       &trans
 &trans  &trans                &trans          &trans            &trans                      &trans  &trans  &trans      &trans  &trans  &trans             &trans        &trans             &trans             &trans                 &trans
             >;
