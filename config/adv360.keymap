@@ -17,7 +17,7 @@
             tapping-term-ms = <200>;
             quick_tap_ms = <200>;
             require-prior-idle-ms = <125>;
-            flavor = "balanced";
+            flavor = "tap-unless-interrupted";
             bindings = <&kp>, <&kp>;
         };
     };
